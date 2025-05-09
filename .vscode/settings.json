@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "javafx-sdk-24.0.1/lib/javafx.base.jar",
+        "javafx-sdk-24.0.1/lib/javafx.controls.jar",
+        "javafx-sdk-24.0.1/lib/javafx.fxml.jar",
+        "javafx-sdk-24.0.1/lib/javafx.graphics.jar",
+        "javafx-sdk-24.0.1/lib/javafx.media.jar",
+        "javafx-sdk-24.0.1/lib/javafx.swing.jar",
+        "javafx-sdk-24.0.1/lib/javafx.web.jar",
+        "javafx-sdk-24.0.1/lib/javafx-swt.jar",
+        "javafx-sdk-24.0.1/lib/jdk.jsobject.jar",
+        "javafx-sdk-24.0.1/lib/jfx.incubator.input.jar",
+        "javafx-sdk-24.0.1/lib/jfx.incubator.richtext.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

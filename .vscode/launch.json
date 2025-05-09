@@ -1,0 +1,21 @@
+
+    {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "type": "java",
+                "name": "LockScreenUI",
+                "request": "launch",
+                "mainClass": "LockScreenUI",
+                "projectName": "akillitahtayönetim_c4589e13",
+                "vmArgs": "--enable-native-access=javafx.graphics --module-path \"C:/Users/Burak/Desktop/akillitahtaproje/akillitahtayönetim/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+            },
+            {
+                "type": "java",
+                "name": "Run SmartBoardAdminUI",
+                "request": "launch",
+                "mainClass": "SmartBoardAdminUI",
+                "vmArgs": "--enable-native-access=javafx.graphics --module-path \"C:/Users/Burak/Desktop/akillitahtaproje/akillitahtayönetim/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+            }
+        ]
+      }

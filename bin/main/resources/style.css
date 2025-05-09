@@ -1,0 +1,20 @@
+.tab-pane .tab {
+    font-weight: bold;
+    -fx-font-weight: bold;
+    background-color: #ffffff;
+    background-color: linear-gradient(to right, #2c3e50, #3498db);
+    -fx-text-fill: white;
+    font-size: 13px;
+    padding: 8px 12px;
+    -fx-background-radius: 5px 5px 0 0;
+}
+
+.tab-pane .tab:selected {
+    background-color: #1abc9c;
+    background-color: #1abc9c;
+    -fx-text-fill: black;
+}
+
+.tab-pane {
+    background-color: #ecf0f1;
+}
